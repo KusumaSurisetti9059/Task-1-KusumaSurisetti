@@ -1,25 +1,25 @@
 # TO-Do List
 
-##Project Description:
+## Project Description:
       This is a simple command-line To-Do List developed using python.The program allows users to manage their daily tasks by adding,viewing and deleting tasks through a menu-driven program
 
-##Features:
+## Features:
         Add new tasks
         View all tasks
         Deleting Existing Tasks
         Input validation
 
-##Technologies Used: 
+## Technologies Used: 
         Python 3
 
-##Learning outcomes:
+## Learning outcomes:
        Python Lists
        Loops
        Conditional Statements
        Functions
        Input Handling
 
-##Author:
+## Author:
        Kusuma Surisetti
-##Internship:
+## Internship:
       DecodeLabs Python Programming Internship - Project 1
