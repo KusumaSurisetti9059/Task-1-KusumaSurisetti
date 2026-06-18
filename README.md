@@ -2,7 +2,7 @@
 
 Project Description
 
-                     This is a simple command-line To-Do List developed using python.The program allows users to manage their daily tasks by adding,viewing and deleting tasks through a menu-driven program
+      This is a simple command-line To-Do List developed using python.The program allows users to manage their daily tasks by adding,viewing and deleting tasks through a menu-driven program
 
 Features:
         Add new tasks
